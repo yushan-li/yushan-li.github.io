@@ -4,10 +4,10 @@ main:
     url: /research/   
 
   - title: "Publications"
-    url: /publications/
+    url: /publication-list/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/     
 
   # - title: "Portfolio"
   #   url: /portfolio/

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Yushan Li's homepage!"
+title: "Yushan Li (黎俣杉) @ SJTU"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <!-- 
-<center><b><i>Yushan Li (黎俣杉) @ SJTU</i></b></center> -->
+<center><b><i>Welcome to Yushan Li's homepage!</i></b></center> -->
 ***Biography:***  Yushan Li is currently a PhD candidate  supervised by Prof. [Xinping Guan](https://english.seiee.sjtu.edu.cn/english/detail/708_591.htm) and Prof. [Jianping He](https://iwin-fins.com), at Dept. of Automation, Shanghai Jiao Tong University. He received the B.E. degree in School of Artificial Intelligence and Automation from Huazhong University of Science and Technology, Wuhan, China, in 2018. He is also a member of Center for Intelligent Wireless Networks and Cooperative Control ([IWIN-Center](https://iwin.sjtu.edu.cn)), SJTU. His current research focuses on the inference attack and the security defense of networked control systems. 
 
 **Resume** &nbsp;&nbsp;&nbsp;  [**Group Website**](https://iwin-fins.com/)	&nbsp;&nbsp;&nbsp;   **Google Scholar**	&nbsp;&nbsp;&nbsp;   [**ResearchGate**](https://www.researchgate.net/profile/Yushan-Li-7)

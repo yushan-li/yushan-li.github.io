@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yushan Li"
+title: "Yushan Li | 黎俣杉"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,15 +12,17 @@ redirect_from:
 
 **Resume** &nbsp;&nbsp;&nbsp;  [**Group Website**](https://iwin-fins.com/)	&nbsp;&nbsp;&nbsp;   **Google Scholar**	&nbsp;&nbsp;&nbsp;   [**ResearchGate**](https://www.researchgate.net/profile/Yushan-Li-7)
 
+<center><b><i>Welcome to Yushan's hompage!<i><b></center>
 
+------
 
-# News
+# <font color="#275BA7">Latest News</font>
 
 - 2022, Jul 16:  One paper is accepted by 2022 IEEE Conference on Decision and Control (CDC). 
 
 - 2022, Feb 1:  My personal website is online. 
 
-  
+
 
 # Selected Publications
 

@@ -12,7 +12,7 @@ redirect_from:
 
 **Resume** &nbsp;&nbsp;&nbsp;  [**Group Website**](https://iwin-fins.com/)	&nbsp;&nbsp;&nbsp;   **Google Scholar**	&nbsp;&nbsp;&nbsp;   [**ResearchGate**](https://www.researchgate.net/profile/Yushan-Li-7)
 
-<center><b><i>Welcome to Yushan's hompage!<i><b></center>
+<center><b><i>Welcome to Yushan's hompage!</i></b></center>
 
 ------
 

@@ -4,7 +4,7 @@ title: "Miscellaneous"
 author_profile: true
 redirect_from: 
   - /misc/
-  - /Miscellaneous.html
+  - /miscellaneous.html
 ---
 
 # Teaching Assistant

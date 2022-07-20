@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yushan Li-Home"
+title                    : "Yushan Li - Homepage"
 title_separator          : "-"
 name                     : &name "Yushan Li"
 description              : &description "personal description"

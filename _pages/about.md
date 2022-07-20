@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Yushan Li's Personal Website"
+title: "Yushan Li"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

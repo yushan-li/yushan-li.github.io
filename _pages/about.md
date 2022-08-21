@@ -19,6 +19,7 @@ redirect_from:
 
 # Latest News
 
+- 2022, Aug 19:  One paper is accepted by IEEE Transactions on Robotics (T-RO). 
 - 2022, Jul 16:  One paper is accepted by 2022 IEEE Conference on Decision and Control (CDC). 
 - 2022, Feb 1:  My personal website is online. 
 

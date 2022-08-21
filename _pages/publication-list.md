@@ -7,6 +7,10 @@ redirect_from:
   - /publication-list.html
 ---
 
+# Journal Articles
+
+1. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, “Intelligent Physical Attack against Mobile Robots with Obstacle-avoidance”, IEEE Transactions on Robotics, 2022, In Press. [[arXiv version](https://arxiv.org/abs/1910.06461)]
+
 # Conference Articles 
 
 1. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, “Inferring Topology of Networked Dynamical Systems by Active Excitations”, IEEE Conference on Decision and Control (CDC), 2022, In Press.
@@ -23,4 +27,3 @@ redirect_from:
 2. Jianping He, **<u>Yushan Li</u>**, Lin Cai, and Xinping Guan, “I Can Read Your Mind: Control Mechanism Secrecy of Networked Dynamical Systems under Inference Attacks”, under review. [[arXiv](https://arxiv.org/abs/2205.03556)]
 3. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, “On Topology Inference for Networked Dynamical Systems: Principles and Performances”, under review. [[arXiv](https://arxiv.org/abs/2106.01031)]
 4. **<u>Yushan Li</u>**, Jianping He, Xuda Ding, Lin Cai and Xinping Guan, “Sneak Attack against Mobile Robotic Networks”, arXiv:2106.02240. [[arXiv](https://arxiv.org/abs/2106.02240)]
-5. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, “Learning-based Intelligent Attack against Mobile Robots with Obstacle-avoidance”, arXiv:1910.06461, under review. [[arXiv](https://arxiv.org/abs/1910.06461)]

@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Yushan Li<br>黎俣杉"
   avatar           : "lys-profile.jpg"
-  bio              : "PhD candidate<br>Dept. of Automation, SJTU"
+  bio              : "Ph.D. Candidate<br>Dept. of Automation, SJTU"
   location         : "Shanghai, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=yPDjyMoAAAAJ&hl=en&oi=ao"
   email            : "yushan_li@sjtu.edu.cn"
   researchgate     :  "https://www.researchgate.net/profile/Yushan-Li-7"
   uri              :

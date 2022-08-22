@@ -6,7 +6,7 @@ collection: research
 
 permalink: /research/2020-physical-attack
 
-excerpt: 'We investigate a novel intelligent physical attack against mobile robots without relying on any prior knowledge. The ultimate goal of the attacker is to learn the obstacle-avoidance mechanism of a mobile robot from external observation, and then leverage it to fool the target robot into a preset trap.'
+excerpt: 'We investigate a novel intelligent physical attack against mobile robots without relying on any prior knowledge. The ultimate goal of the attacker is to learn the obstacle-avoidance mechanism of a mobile robot from external observation, and then leverage it to fool the target robot into a preset trap. <br> *Representative papers*:	[[IEEE TRO'22](https://arxiv.org/abs/1910.06461)]	[[ACC'19](https://ieeexplore.ieee.org/document/8814377)] '
 
 venue: ''
 

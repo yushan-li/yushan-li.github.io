@@ -1,11 +1,11 @@
----
+<!---
 permalink: research/
 title: "Research Direction"
 author_profile: true
 redirect_from: 
   - /rs/
   - /research.html
----
+---!>
 
 
 # **Intelligent Physical Attack Against Mobile Robots**

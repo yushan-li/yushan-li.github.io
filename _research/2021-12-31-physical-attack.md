@@ -9,7 +9,9 @@ permalink: /research/2021-12-31-physical-attack
 excerpt: 'We investigate a novel intelligent physical attack against mobile robots without relying on any prior knowledge. The ultimate goal of the attacker is to learn the obstacle-avoidance mechanism of a mobile robot from external observation, and then leverage it to fool the target robot into a preset trap.'
 
 date: 2021-12-31
+
 ---
+
 # **Intelligent Physical Attack Against Mobile Robots**
 
 *<u>Background:</u>* The mobile robots can be seen as a typical cyber-physical system (CPS), whose security issues become critical yet imperatively challenging. Prior works concerning the security of mobile robots are mainly developed from the perspective of cyberspace, while physical attacks are less noticed yet also critically important. It is universally needed for mobile robots in the real world to interact with the physical environment, which also essentially brings a security vulnerability. 

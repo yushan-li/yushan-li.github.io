@@ -4,7 +4,9 @@ title: "Intelligent Physical Attack Against Mobile Robots"
 
 collection: research
 
-permalink: /research/2021-12-31-attack
+permalink: /research/2020-physical-attack
+
+venue: 'Theory and experiment'
 
 excerpt: 'We investigate a novel intelligent physical attack against mobile robots without relying on any prior knowledge. The ultimate goal of the attacker is to learn the obstacle-avoidance mechanism of a mobile robot from external observation, and then leverage it to fool the target robot into a preset trap.'
 

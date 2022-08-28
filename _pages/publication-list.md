@@ -25,5 +25,5 @@ redirect_from:
 
 1. **<u>Yushan Li</u>**, Jianping He, Cailian Chen, Xinping Guan, and Lin Cai, “Securing Formation Control of Mobile Robotic Networks Against Replacement Attack”, under review.
 2. Jianping He, **<u>Yushan Li</u>**, Lin Cai, and Xinping Guan, “I Can Read Your Mind: Control Mechanism Secrecy of Networked Dynamical Systems under Inference Attacks”, under review. [[arXiv](https://arxiv.org/abs/2205.03556)]
-3. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, “On Topology Inference for Networked Dynamical Systems: Principles and Performances”, under review. [[arXiv](https://arxiv.org/abs/2106.01031)]
-4. **<u>Yushan Li</u>**, Jianping He, Xuda Ding, Lin Cai and Xinping Guan, “Sneak Attack against Mobile Robotic Networks”, arXiv:2106.02240. [[arXiv](https://arxiv.org/abs/2106.02240)]
+3. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, “Topology Inference for Network Systems: Causality Perspective and Non-asymptotic Performance”, under review. [[arXiv](https://arxiv.org/abs/2106.01031)]
+4. **<u>Yushan Li</u>**, Jianping He, Lin Cai and Xinping Guan, “Local Topology Inference of Mobile Robotic Networks under Formation Control”, under review. [[arXiv](https://arxiv.org/abs/2205.00243)]

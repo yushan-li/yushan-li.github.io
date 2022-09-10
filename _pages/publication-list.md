@@ -9,7 +9,7 @@ redirect_from:
 
 # Journal Articles
 
-1. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, “Intelligent Physical Attack against Mobile Robots with Obstacle-avoidance”, IEEE Transactions on Robotics, 2022, In Press. [[arXiv version](https://arxiv.org/abs/1910.06461)]
+1. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, “Intelligent Physical Attack against Mobile Robots with Obstacle-avoidance”, IEEE Transactions on Robotics, 2022. [[Link]](https://doi.org/10.1109/TRO.2022.3201394) [[arXiv version](https://arxiv.org/abs/1910.06461)]
 
 # Conference Articles 
 

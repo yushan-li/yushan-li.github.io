@@ -17,7 +17,7 @@ redirect_from:
 
 
 
-# Latest News
+# News
 
 - 2022, Aug 19:  One paper is accepted by IEEE Transactions on Robotics (T-RO). 
 - 2022, Jul 16:  One paper is accepted by 2022 IEEE Conference on Decision and Control (CDC). 
@@ -29,7 +29,7 @@ redirect_from:
 
 # Selected Publications
 
-1. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, ''Intelligent Physical Attack Against Mobile Robots with Obstacle-avoidance”, IEEE Transactions on Robotics (T-RO), In Press. [[arXiv version]](https://arxiv.org/abs/1910.06461)
+1. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, ''Intelligent Physical Attack Against Mobile Robots with Obstacle-avoidance”, IEEE Transactions on Robotics (T-RO). [[Link]](https://doi.org/10.1109/TRO.2022.3201394) [[arXiv version]](https://arxiv.org/abs/1910.06461)
 2. **<u>Yushan Li</u>** and Jianping He, “Topology Inference for Networked Dynamical Systems: A Causality and Correlation Perspective”, IEEE Conference on Decision and Control (CDC), 2021. [[Link]](https://ieeexplore.ieee.org/document/9682968)
 3. **<u>Yushan Li</u>**, Jianping He and Lin Cai, “Topology Inference on Partially Observable Mobile
    Robotic Networks under Formation Control”, European Control Conference (ECC), 2021. [[Link]](https://ieeexplore.ieee.org/document/9655038)

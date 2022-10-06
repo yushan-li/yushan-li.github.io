@@ -11,7 +11,7 @@ redirect_from:
 <center><b><i>Welcome to Yushan Li's homepage!</i></b></center> -->
 **Biography:**  Yushan Li is currently a PhD candidate  supervised by Prof. [Xinping Guan](https://english.seiee.sjtu.edu.cn/english/detail/708_591.htm) and Prof. [Jianping He](https://iwin-fins.com), at Dept. of Automation, Shanghai Jiao Tong University. He received the B.E. degree in School of Artificial Intelligence and Automation from Huazhong University of Science and Technology, Wuhan, China, in 2018. He is also a member of Center for Intelligent Wireless Networks and Cooperative Control ([IWIN-Center](https://iwin.sjtu.edu.cn)), SJTU. His current research focuses on the inference attack and the security defense of networked control systems. 
 
-**[CV](https://yushan-li.github.io/files/CV-lys-2022-Aug.pdf)** \| **[中文简历](https://yushan-li.github.io/files/CV_lys_Chinese_2022_Aug.pdf)**  &nbsp;&nbsp;&nbsp;  [**Group Website**](https://iwin-fins.com/)	&nbsp;&nbsp;&nbsp;   **[Google Scholar](https://scholar.google.com/citations?user=yPDjyMoAAAAJ&hl=en&oi=ao)**	&nbsp;&nbsp;&nbsp;   [**ResearchGate**](https://www.researchgate.net/profile/Yushan-Li-7)
+**[CV](https://yushan-li.github.io/files/CV-lys-English-2022-Oct.pdf)** \| **[中文简历](https://yushan-li.github.io/files/CV_lys_Chinese_2022_Oct.pdf)**  &nbsp;&nbsp;&nbsp;  [**Group Website**](https://iwin-fins.com/)	&nbsp;&nbsp;&nbsp;   **[Google Scholar](https://scholar.google.com/citations?user=yPDjyMoAAAAJ&hl=en&oi=ao)**	&nbsp;&nbsp;&nbsp;   [**ResearchGate**](https://www.researchgate.net/profile/Yushan-Li-7)
 
 ------
 
@@ -19,6 +19,7 @@ redirect_from:
 
 # News
 
+- 2022, Sep 25:  Yushan Li is awarded the 2022 National Scholarship for Graduates.
 - 2022, Aug 19:  One paper is accepted by IEEE Transactions on Robotics (T-RO). 
 - 2022, Jul 16:  One paper is accepted by 2022 IEEE Conference on Decision and Control (CDC). 
 - 2022, Feb 1:  My personal website is online. 

@@ -40,8 +40,8 @@ redirect_from:
 # Selected Publications
 
 1. **<u>Yushan Li</u>**, Jianping He, Lin Cai and Xinping Guan, ''Local Topology Inference of Mobile
-   Robotic Networks Under Formation Control”, IEEE Transactions on Automatic Control (TAC), 2023. [[Publisher]](https://doi.org/10.1109/TAC.2023.3237484) [[arXiv]](https://arxiv.org/abs/2205.00243)
-2. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, ''Intelligent Physical Attack Against Mobile Robots with Obstacle-avoidance”, IEEE Transactions on Robotics (T-RO), 2022. [[Publisher]](https://doi.org/10.1109/TRO.2022.3201394) [[arXiv]](https://arxiv.org/abs/1910.06461)
+   Robotic Networks Under Formation Control”, IEEE Transactions on Automatic Control (TAC), 2023 (Full Paper). [[Publisher]](https://doi.org/10.1109/TAC.2023.3237484) [[arXiv]](https://arxiv.org/abs/2205.00243)
+2. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, ''Intelligent Physical Attack Against Mobile Robots with Obstacle-avoidance”, IEEE Transactions on Robotics (T-RO), 2023 (Full Paper). [[Publisher]](https://doi.org/10.1109/TRO.2022.3201394) [[arXiv]](https://arxiv.org/abs/1910.06461)
 3. **<u>Yushan Li</u>** and Jianping He, “Topology Inference for Networked Dynamical Systems: A Causality and Correlation Perspective”, IEEE Conference on Decision and Control (CDC), 2021. [[Publisher]](https://ieeexplore.ieee.org/document/9682968)
 4. **<u>Yushan Li</u>**, Jianping He and Lin Cai, “Topology Inference on Partially Observable Mobile
    Robotic Networks under Formation Control”, European Control Conference (ECC), 2021. [[Publisher]](https://ieeexplore.ieee.org/document/9655038)

@@ -9,18 +9,19 @@ redirect_from:
 
 # Journal Articles
 
-1. **<u>Yushan Li</u>**, Jianping He, Lin Cai and Xinping Guan, ''Local Topology Inference of Mobile Robotic Networks Under Formation Control”, IEEE Transactions on Automatic Control (TAC), 2023. [[Publisher]](https://doi.org/10.1109/TAC.2023.3237484) [[arXiv]](https://arxiv.org/abs/2205.00243)
-2. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, “Intelligent Physical Attack against Mobile Robots with Obstacle-avoidance”, IEEE Transactions on Robotics, 2022. [[Publisher]](https://doi.org/10.1109/TRO.2022.3201394) [[arXiv](https://arxiv.org/abs/1910.06461)]
+1. **<u>Yushan Li</u>**, Jianping He, Lin Cai and Xinping Guan, ''Local Topology Inference of Mobile Robotic Networks Under Formation Control”, IEEE Transactions on Automatic Control (TAC), 2023 (Full Paper). [[Publisher]](https://doi.org/10.1109/TAC.2023.3237484) [[arXiv]](https://arxiv.org/abs/2205.00243)
+2. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, “Intelligent Physical Attack against Mobile Robots with Obstacle-avoidance”, IEEE Transactions on Robotics, 2023 (Full Paper). [[Publisher]](https://doi.org/10.1109/TRO.2022.3201394) [[arXiv](https://arxiv.org/abs/1910.06461)]
 
 # Conference Articles 
 
-1. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, “Inferring Topology of Networked Dynamical Systems by Active Excitations”, IEEE Conference on Decision and Control (CDC), 2022.  [[Publisher]](https://doi.org/10.1109/CDC51059.2022.9992808)
-2. **<u>Yushan Li</u>** and Jianping He, “Topology Inference for Networked Dynamical Systems: A Causality and Correlation Perspective”, IEEE Conference on Decision and Control (CDC), 2021. [[Publisher]](https://ieeexplore.ieee.org/document/9682968)
-3. **<u>Yushan Li</u>**, Qing Jiao, Han Wang and Jianping He, “Consensus and Approximation-based Distribution Statistics in Network Systems”, American Control Conference (ACC), 2021. [[Publisher](https://ieeexplore.ieee.org/document/9483081)]
-4. **<u>Yushan Li</u>**, Jianping He and Lin Cai, “Topology Inference on Partially Observable Mobile
+1. **<u>Yushan Li</u>**, Tao Xu, Jianping He, Cailian Chen and Xinping Guan, “Inferring State-feedback Cooperative Control of Networked Dynamical Systems”, IFAC World Congress, 2023, in press.
+2. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, “Inferring Topology of Networked Dynamical Systems by Active Excitations”, IEEE Conference on Decision and Control (CDC), 2022.  [[Publisher]](https://doi.org/10.1109/CDC51059.2022.9992808)
+3. **<u>Yushan Li</u>** and Jianping He, “Topology Inference for Networked Dynamical Systems: A Causality and Correlation Perspective”, IEEE Conference on Decision and Control (CDC), 2021. [[Publisher]](https://ieeexplore.ieee.org/document/9682968)
+4. **<u>Yushan Li</u>**, Qing Jiao, Han Wang and Jianping He, “Consensus and Approximation-based Distribution Statistics in Network Systems”, American Control Conference (ACC), 2021. [[Publisher](https://ieeexplore.ieee.org/document/9483081)]
+5. **<u>Yushan Li</u>**, Jianping He and Lin Cai, “Topology Inference on Partially Observable Mobile
    Robotic Networks under Formation Control”, European Control Conference (ECC), 2021. [[Publisher]](https://ieeexplore.ieee.org/document/9655038)
-5. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, ''Learning-based Intelligent Attack against Formation Control with Obstacle-avoidance”, American Control Conference (ACC), 2019. [[Publisher]](https://ieeexplore.ieee.org/document/8814377)
-6. **<u>Yushan Li</u>**, Han Wang, Jianping He and Xinping Guan, “Optimal Topology Recovery Scheme for Multi-robot Formation Control”, IEEE International Symposium on Industrial Electronics (ISIE), 2019. [[Publisher](https://ieeexplore.ieee.org/document/8781433)]
+6. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, ''Learning-based Intelligent Attack against Formation Control with Obstacle-avoidance”, American Control Conference (ACC), 2019. [[Publisher]](https://ieeexplore.ieee.org/document/8814377)
+7. **<u>Yushan Li</u>**, Han Wang, Jianping He and Xinping Guan, “Optimal Topology Recovery Scheme for Multi-robot Formation Control”, IEEE International Symposium on Industrial Electronics (ISIE), 2019. [[Publisher](https://ieeexplore.ieee.org/document/8781433)]
 
 # Preprints
 

@@ -24,10 +24,10 @@ redirect_from:
 
 # News
 
-- 2023, Sep 25:  Yushan Li is awarded the 2022 National Scholarship for Graduates.
-- 2023 Aug 4: One paper is accepted by IEEE Transactions on Automatic Control (TAC) as Full Paper, congratulations! 
-- 2023 Mar 6: Yushan Li has won the 2022 Shanghai Association of Automation Best Paper Award (the IEEE T-RO'22 paper), congratulations!
-- 2023 Mar 4: One paper is accepted by IFAC World Congress 2023, congratulations!
+- 2023, Sep 25: Yushan Li is awarded the 2022 National Scholarship for Graduates.
+- 2023, Aug 4: One paper is accepted by IEEE Transactions on Automatic Control (TAC) as Full Paper, congratulations! 
+- 2023, Mar 6: Yushan Li has won the 2022 Shanghai Association of Automation Best Paper Award (the IEEE T-RO'22 paper), congratulations!
+- 2023, Mar 4: One paper is accepted by IFAC World Congress 2023, congratulations!
 - 2023, Jan 9: One paper is accepted by IEEE Transactions on Automatic Control (TAC) as Full Paper, congratulations! 
 - 2022, Dec 3: Yushan Li is invited to present latest works at 2022 ZJU Swarm Intelligence Unmanned Systems National Academic Forum For Ph.D Candidates. 
 - 2022, Sep 25:  Yushan Li is awarded the 2022 National Scholarship for Graduates.
@@ -41,13 +41,14 @@ redirect_from:
 
 # Selected Publications
 
-1. **<u>Yushan Li</u>**, Jianping He, Lin Cai and Xinping Guan, ''Local Topology Inference of Mobile
+1. **<u>Yushan Li</u>**, Jianping He, Cailian chen and Xinping Guan, ''Topology Inference for Network Systems: Causality Perspective and Non-asymptotic Performance”, IEEE Transactions on Automatic Control (TAC), 2023 (Full Paper). [[Publisher]](https://doi.org/10.1109/TAC.2023.3303816) [[arXiv]](https://arxiv.org/abs/2106.01031)
+2. **<u>Yushan Li</u>**, Jianping He, Lin Cai and Xinping Guan, ''Local Topology Inference of Mobile
    Robotic Networks Under Formation Control”, IEEE Transactions on Automatic Control (TAC), 2023 (Full Paper). [[Publisher]](https://doi.org/10.1109/TAC.2023.3237484) [[arXiv]](https://arxiv.org/abs/2205.00243)
-2. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, ''Intelligent Physical Attack Against Mobile Robots with Obstacle-avoidance”, IEEE Transactions on Robotics (T-RO), 2023 (Full Paper). [[Publisher]](https://doi.org/10.1109/TRO.2022.3201394) [[arXiv]](https://arxiv.org/abs/1910.06461)
-3. **<u>Yushan Li</u>** and Jianping He, “Topology Inference for Networked Dynamical Systems: A Causality and Correlation Perspective”, IEEE Conference on Decision and Control (CDC), 2021. [[Publisher]](https://ieeexplore.ieee.org/document/9682968)
-4. **<u>Yushan Li</u>**, Jianping He and Lin Cai, “Topology Inference on Partially Observable Mobile
+3. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, ''Intelligent Physical Attack Against Mobile Robots with Obstacle-avoidance”, IEEE Transactions on Robotics (T-RO), 2023 (Full Paper). [[Publisher]](https://doi.org/10.1109/TRO.2022.3201394) [[arXiv]](https://arxiv.org/abs/1910.06461)
+4. **<u>Yushan Li</u>** and Jianping He, “Topology Inference for Networked Dynamical Systems: A Causality and Correlation Perspective”, IEEE Conference on Decision and Control (CDC), 2021. [[Publisher]](https://ieeexplore.ieee.org/document/9682968)
+5. **<u>Yushan Li</u>**, Jianping He and Lin Cai, “Topology Inference on Partially Observable Mobile
    Robotic Networks under Formation Control”, European Control Conference (ECC), 2021. [[Publisher]](https://ieeexplore.ieee.org/document/9655038)
-5. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, ''Learning-based Intelligent Attack against Formation Control with Obstacle-avoidance”, American Control Conference (ACC), 2019. [[Publisher]](https://ieeexplore.ieee.org/document/8814377)
+6. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, ''Learning-based Intelligent Attack against Formation Control with Obstacle-avoidance”, American Control Conference (ACC), 2019. [[Publisher]](https://ieeexplore.ieee.org/document/8814377)
 
 **[See More Publications](https://yushan-li.github.io/publication-list/)**
 
@@ -57,6 +58,7 @@ redirect_from:
 
 # Invited Talks
 
+- 2023 Jul, “Topology Inference and Cooperation Security of Mobile Robotic Networks”, Graduate Student Seminar on Control and Optimization, East China University of Science and Technology, Shanghai, China. 
 - 2022 Dec, “Topology Inference and Cooperation Security of Mobile Robotic Networks”, 2022 ZJU
   Swarm Intelligence Unmanned Systems National Academic Forum For Ph.D Candidates,
   Zhejiang University, Hangzhou, China (online), Outstanding Speech Award. [[Link](http://www.cse.zju.edu.cn/2023/0121/c39283a2711687/page.htm)]
@@ -68,7 +70,8 @@ redirect_from:
 
 # Honors and Awards
 
-- 2023: The 2022 Shanghai Association of Automation Best Paper Award, *Intelligent Physical Attack Against Mobile Robots with Obstacle-avoidance, IEEE Transactions on Robotics (IEE T-RO), 2022*. 
+- 2023: The National Scholarship for Graduate Student
+        The 2022 Shanghai Association of Automation Best Paper Award, *Intelligent Physical Attack Against Mobile Robots with Obstacle-avoidance, IEEE Transactions on Robotics (IEE T-RO), 2022*. 
 - 2022: The National Scholarship for Graduate Student
 - 2020: The Best Presentation Award, Multi-robot System Platform, Academic Annual Meeting
   of Shanghai Association of Automation.

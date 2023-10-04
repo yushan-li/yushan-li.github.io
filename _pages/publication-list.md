@@ -7,10 +7,13 @@ redirect_from:
   - /publication-list.html
 ---
 
+A complete list of my publications can be found at [Google Scholar](https://scholar.google.com/citations?user=yPDjyMoAAAAJ&hl=en&oi=ao)
+
 # Journal Articles
 
-1. **<u>Yushan Li</u>**, Jianping He, Lin Cai and Xinping Guan, ''Local Topology Inference of Mobile Robotic Networks Under Formation Control”, IEEE Transactions on Automatic Control (TAC), 2023 (Full Paper). [[Publisher]](https://doi.org/10.1109/TAC.2023.3237484) [[arXiv]](https://arxiv.org/abs/2205.00243)
-2. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, “Intelligent Physical Attack against Mobile Robots with Obstacle-avoidance”, IEEE Transactions on Robotics, 2023 (Full Paper). [[Publisher]](https://doi.org/10.1109/TRO.2022.3201394) [[arXiv](https://arxiv.org/abs/1910.06461)]
+1. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, “Topology Inference for Network Systems: Causality Perspective and Non-asymptotic Performance”, IEEE Transactions on Automatic Control (TAC), 2023 (Full Paper). [[Publisher]](https://doi.org/10.1109/TAC.2023.3303816) [[arXiv](https://arxiv.org/abs/2106.01031)]
+2. **<u>Yushan Li</u>**, Jianping He, Lin Cai and Xinping Guan, ''Local Topology Inference of Mobile Robotic Networks Under Formation Control”, IEEE Transactions on Automatic Control (TAC), 2023 (Full Paper). [[Publisher]](https://doi.org/10.1109/TAC.2023.3237484) [[arXiv]](https://arxiv.org/abs/2205.00243)
+3. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, “Intelligent Physical Attack against Mobile Robots with Obstacle-avoidance”, IEEE Transactions on Robotics, 2023 (Full Paper). [[Publisher]](https://doi.org/10.1109/TRO.2022.3201394) [[arXiv](https://arxiv.org/abs/1910.06461)]
 
 # Conference Articles 
 
@@ -27,4 +30,4 @@ redirect_from:
 
 1. **<u>Yushan Li</u>**, Jianping He, Cailian Chen, Xinping Guan, and Lin Cai, “Securing Formation Control of Mobile Robotic Networks Against Replacement Attack”, under review.
 2. Jianping He, **<u>Yushan Li</u>**, Lin Cai, and Xinping Guan, “I Can Read Your Mind: Control Mechanism Secrecy of Networked Dynamical Systems under Inference Attacks”, under review. [[arXiv](https://arxiv.org/abs/2205.03556)]
-3. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, “Topology Inference for Network Systems: Causality Perspective and Non-asymptotic Performance”, under review. [[arXiv](https://arxiv.org/abs/2106.01031)]
+

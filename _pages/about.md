@@ -24,7 +24,7 @@ redirect_from:
 
 # News
 
-- 2023, Sep 25: Yushan Li is awarded the 2022 National Scholarship for Graduates.
+- 2023, Sep 25: Yushan Li is awarded the 2023 National Scholarship for Graduates.
 - 2023, Aug 4: One paper is accepted by IEEE Transactions on Automatic Control (TAC) as Full Paper, congratulations! 
 - 2023, Mar 6: Yushan Li has won the 2022 Shanghai Association of Automation Best Paper Award (the IEEE T-RO'22 paper), congratulations!
 - 2023, Mar 4: One paper is accepted by IFAC World Congress 2023, congratulations!

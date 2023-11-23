@@ -42,11 +42,17 @@ redirect_from:
 <details>
 <summary>See more news</summary>
 - 2023, Mar 4: One paper is accepted by IFAC World Congress 2023, congratulations!
+
 - 2023, Jan 9: One paper is accepted by IEEE Transactions on Automatic Control (TAC) as Full Paper, congratulations! 
+
 - 2022, Dec 3: Yushan Li is invited to present latest works at 2022 ZJU Swarm Intelligence Unmanned Systems National Academic Forum For Ph.D Candidates. 
+
 - 2022, Sep 25:  Yushan Li is awarded the 2022 National Scholarship for Graduates.
+
 - 2022, Aug 19:  One paper is accepted by IEEE Transactions on Robotics (T-RO), congratulations! 
+
 - 2022, Jul 16:  One paper is accepted by 2022 IEEE Conference on Decision and Control (CDC), congratulations! 
+
 - 2022, Feb 1:  My personal website is online. 
 </details>
 

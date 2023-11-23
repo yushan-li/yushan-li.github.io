@@ -41,6 +41,7 @@ redirect_from:
 
 <details>
 <summary>See more news</summary>
+  
 - 2023, Mar 4: One paper is accepted by IFAC World Congress 2023, congratulations!
 
 - 2023, Jan 9: One paper is accepted by IEEE Transactions on Automatic Control (TAC) as Full Paper, congratulations! 

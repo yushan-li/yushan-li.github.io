@@ -37,7 +37,7 @@ redirect_from:
 <details>
 <summary>See more news</summary>
 
-- 2022, Jul 16:  One paper is accepted by 2022 IEEE Conference on Decision and Control (CDC), congratulations! 
+- 2022, Jul 16:  One paper is accepted by 2022 IEEE Conference on Decision and Control (CDC), congratulations! <br/>
 
 - 2022, Feb 1:  My personal website is online. 
 </details>

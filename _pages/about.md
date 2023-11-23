@@ -24,6 +24,8 @@ redirect_from:
 
 # News
 
+- 2023, Nov 5: Yushan Li is invited to present the latest works at the 2023 ZJU Swarm Intelligence Unmanned Systems National Academic Forum For Ph.D Candidates in Hangzhou, China, and awarded the Best Presentation Award. 
+- 2023, Oct 21: Yushan is invited to give a keynote speech at The 7th SJTU-FDU Joint Information Technology Academic Forum.
 - 2023, Sep 25: Yushan Li is awarded the 2023 National Scholarship for Graduates.
 - 2023, Aug 4: One paper is accepted by IEEE Transactions on Automatic Control (TAC) as Full Paper, congratulations! 
 - 2023, Mar 6: Yushan Li has won the 2022 Shanghai Association of Automation Best Paper Award (the IEEE T-RO'22 paper), congratulations!
@@ -56,6 +58,8 @@ redirect_from:
 
 # Invited Talks
 
+- 2023 Nov, oral presentation in the 2023 ZJU Swarm Intelligence Unmanned Systems National Academic Forum For Ph.D Candidates, Zhejiang University, Hangzhou, China.
+- 2023 Oct, keynote speech in The 7th SJTU-FDU Joint Information Technology Academic Forum, Fudan University, Shanghai, China. 
 - 2023 Jul, “Topology Inference and Cooperation Security of Mobile Robotic Networks”, Graduate Student Seminar on Control and Optimization, East China University of Science and Technology, Shanghai, China. 
 - 2022 Dec, “Topology Inference and Cooperation Security of Mobile Robotic Networks”, 2022 ZJU
   Swarm Intelligence Unmanned Systems National Academic Forum For Ph.D Candidates,

@@ -25,7 +25,7 @@ redirect_from:
 # Latest News
 
 - 2023, Dec 14: Yushan Li was awarded Shanghai Jiao Tong University “**Academic Star**” (only 10 persons per year), congratulations!
-- 2023, Nov 5: Yushan Li was invited to present the latest works at the 2023 ZJU Swarm Intelligence Unmanned Systems National Academic Forum For Ph.D Candidates in Hangzhou, China, and received the **Best Presentation Award**. 
+- 2023, Nov 5: Yushan Li was invited to present the latest works at the 2023 ZJU Swarm Intelligence Unmanned Systems National Academic Forum For Ph.D Candidates in Hangzhou, China, and received the **Best Oral Presentation Award**. 
 - 2023, Oct 21: Yushan was invited to give a **keynote speech** at The 7th SJTU-FDU Joint Information Technology Academic Forum.
 - 2023, Sep 25: Yushan Li was awarded the 2023 National Scholarship for Graduates.
 - 2023, Aug 4: One paper was accepted by IEEE Transactions on Automatic Control (TAC) as Full Paper, congratulations! 

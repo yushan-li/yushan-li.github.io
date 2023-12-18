@@ -36,11 +36,11 @@ redirect_from:
 - 2022, Sep 25:  Yushan Li was awarded the 2022 National Scholarship for Graduates.
 <details>
 <summary>See earlier news</summary>
-&emsp;- 2022, Aug 19:  One paper is accepted by IEEE Transactions on Robotics (T-RO), congratulations! <br/>
+&emsp;- &nbsp;2022, Aug 19:  One paper is accepted by IEEE Transactions on Robotics (T-RO), congratulations! <br/>
   
-&emsp;- 2022, Jul 16:  One paper is accepted by 2022 IEEE Conference on Decision and Control (CDC), congratulations! <br/>
+&emsp;- &nbsp;2022, Jul 16:  One paper is accepted by 2022 IEEE Conference on Decision and Control (CDC), congratulations! <br/>
 
-&emsp;- 2022, Feb 1:  My personal website is online. 
+&emsp;- &nbsp;2022, Feb 1:  My personal website is online. 
 </details>
 
 ------

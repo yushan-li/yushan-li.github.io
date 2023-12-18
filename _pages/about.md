@@ -79,7 +79,7 @@ redirect_from:
 - 2023: 
   - Shanghai Jiao Tong University “**Academic Star**”
   - The National Scholarship for Graduate Student
-  - The 2022 Shanghai Association of Automation Best Paper Award, *Intelligent Physical Attack Against Mobile Robots with Obstacle-avoidance, IEEE Transactions on Robotics (IEE T-RO), 2022*. 
+  - The 2022 Shanghai Association of Automation Best Paper Award 
 - 2022: The National Scholarship for Graduate Student
 - 2020: The Best Presentation Award, Multi-robot System Platform, Academic Annual Meeting
   of Shanghai Association of Automation.

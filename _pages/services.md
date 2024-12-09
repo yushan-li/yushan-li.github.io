@@ -14,10 +14,14 @@ redirect_from:
 
 # Journal Reviewer
 
+- Automatica
 - IEEE Transactions on Automatic Control
+- IEEE Transactions on Control of Network Systems
 - IEEE Transactions on Industrial Informatics
 - IEEE Transactions on Vehicular Technology
+- IEEE Control Systems Letters
 - IEEE Open Journal of Vehicular Technology
+- ISA Transactions
 - KSII Transactions on Internet and Information Systems
 - International Journal of Intelligent Robotics and Applications
 - ACTA Automatica Sinica
@@ -25,6 +29,7 @@ redirect_from:
 # Conference Reviewer
 
 - American Control Conference
+- IEEE Conference on Decision and Control
 - IEEE Vehicular Technology Conference
 - IFAC Conference on Cyber-Physical and Human-Systems
 - The Chinese Automation Congress

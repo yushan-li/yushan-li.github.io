@@ -36,17 +36,17 @@ redirect_from:
 - 2023, Sep 25: Yushan Li was awarded the 2023 National Scholarship for Graduates.
 <details>
 <summary>See earlier news</summary>
-&emsp;- &nbsp;2023, Aug 4: One paper was accepted by IEEE Transactions on Automatic Control (TAC) as Full Paper, congratulations! 
+&emsp;- &nbsp;2023, Aug 4: One paper was accepted by IEEE Transactions on Automatic Control (TAC) as Full Paper, congratulations! <br/>
 
-&emsp;- &nbsp;2023, Mar 6: Yushan Li has won the 2022 Shanghai Association of Automation Best Paper Award (the IEEE T-RO'22 paper), congratulations!
+&emsp;- &nbsp;2023, Mar 6: Yushan Li has won the 2022 Shanghai Association of Automation Best Paper Award (the IEEE T-RO'22 paper), congratulations!<br/>
 
-&emsp;- &nbsp;2023, Mar 4: One paper was accepted by IFAC World Congress 2023, congratulations!
+&emsp;- &nbsp;2023, Mar 4: One paper was accepted by IFAC World Congress 2023, congratulations!<br/>
 
-&emsp;- &nbsp;2023, Jan 9: One paper was accepted by IEEE Transactions on Automatic Control (TAC) as Full Paper, congratulations! 
+&emsp;- &nbsp;2023, Jan 9: One paper was accepted by IEEE Transactions on Automatic Control (TAC) as Full Paper, congratulations! <br/>
 
-&emsp;- &nbsp;2022, Dec 3: Yushan Li was invited to present latest works at 2022 ZJU Swarm Intelligence Unmanned Systems National Academic Forum For Ph.D Candidates. 
+&emsp;- &nbsp;2022, Dec 3: Yushan Li was invited to present latest works at 2022 ZJU Swarm Intelligence Unmanned Systems National Academic Forum For Ph.D Candidates. <br/>
 
-&emsp;- &nbsp;2022, Sep 25:  Yushan Li was awarded the 2022 National Scholarship for Graduates.
+&emsp;- &nbsp;2022, Sep 25:  Yushan Li was awarded the 2022 National Scholarship for Graduates.<br/>
 
 &emsp;- &nbsp;2022, Aug 19:  One paper is accepted by IEEE Transactions on Robotics (T-RO), congratulations! <br/>
 

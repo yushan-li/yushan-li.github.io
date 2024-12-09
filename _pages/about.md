@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yushan Li (黎俣杉) @ SJTU"
+title: "Yushan Li (黎俣杉) @ KTH"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

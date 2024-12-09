@@ -14,7 +14,7 @@ redirect_from:
 
 <center><b><i>Welcome to Yushan Li's homepage!</i></b></center> -->
 
-**Biography:**  Yushan Li is currently a Postdoc Researcher in the Division of Decision and Control Systems, KTH, Sweden, and is under the supervision of Prof. [Dimos V. Dimarogonas](https://people.kth.se/~dimos/index.html). Before that, he received his Ph.D degree in Control Science and Engineering from Shanghai Jiao Tong University, Shanghai, China, supervised by Prof. [Xinping Guan](https://english.seiee.sjtu.edu.cn/english/detail/708_591.htm) and Prof. [Jianping He](https://iwin-fins.com). He received the B.E. degree in Automation from Huazhong University of Science and Technology, Wuhan, China, in 2018. His current research focuses on the inference and cooperation of networked systems. 
+**Biography:**  Yushan Li is currently a Postdoc Researcher in the Division of Decision and Control Systems, KTH Royal Institute of Technology, Sweden, and is under the supervision of Prof. [Dimos V. Dimarogonas](https://people.kth.se/~dimos/index.html). Before that, he received his Ph.D degree in Control Science and Engineering from Shanghai Jiao Tong University, Shanghai, China, supervised by Prof. [Xinping Guan](https://english.seiee.sjtu.edu.cn/english/detail/708_591.htm) and Prof. [Jianping He](https://iwin-fins.com). He received the B.E. degree in Automation from Huazhong University of Science and Technology, Wuhan, China, in 2018. His current research focuses on the inference and cooperation of networked systems. 
 
    **[Google Scholar](https://scholar.google.com/citations?user=yPDjyMoAAAAJ&hl=en&oi=ao)**	&nbsp;&nbsp;&nbsp;   [**ResearchGate**](https://www.researchgate.net/profile/Yushan-Li-7)
 
@@ -27,7 +27,7 @@ redirect_from:
 - 2024, Dec 4: One co-author paper was accepted by Automatica, congratulations to Tao Xu!
 - 2024, Nov 16: One paper was accepted by IEEE Transactions on Automatic Control (TAC) as Full Paper! 
 - 2024, Jul 28: One co-author paper was awarded the **Honorable Mention of Poster Paper Award at Chinese Control Conference 2024**, congratulations to Kexiang Mao!
-- 2024, Jun 19: I have joined the Division of Decision and Control Systems, KTH Royal Institute of Technique, as a Postdoc Researcher. 
+- 2024, Jun 19: I have joined the Division of Decision and Control Systems, KTH Royal Institute of Technology, as a Postdoc Researcher. 
 - 2024, Jun 18: One co-author paper was accepted by IEEE Journal of Selected Topics in Signal Processing (JSTSP), congratulations to Zitong Wang!
 - 2024, May 23: Yushan Li has successfully defended his doctoral dissertation!
 - 2023, Dec 14: Yushan Li was awarded Shanghai Jiao Tong University “**Academic Star**” (only 10 persons per year), congratulations!

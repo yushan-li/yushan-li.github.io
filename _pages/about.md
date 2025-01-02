@@ -24,6 +24,7 @@ redirect_from:
 
 # Latest News
 
+- 2024, Dec 26: One paper was accepted by IEEE Transactions on Automatic Control (TAC) as Full Paper! 
 - 2024, Dec 4: One co-author paper was accepted by Automatica, congratulations to Tao Xu!
 - 2024, Nov 16: One paper was accepted by IEEE Transactions on Automatic Control (TAC) as Full Paper! 
 - 2024, Jul 28: One co-author paper was awarded the **Honorable Mention of Poster Paper Award at Chinese Control Conference 2024**, congratulations to Kexiang Mao!

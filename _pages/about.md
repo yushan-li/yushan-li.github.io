@@ -24,6 +24,7 @@ redirect_from:
 
 # Latest News
 
+- 2025 Jan 23: One co-author paper was accepted by IEEE Transactions on Cybernetics, congratulations to Zitong Wang!
 - 2024, Dec 26: One paper was accepted by IEEE Transactions on Automatic Control (TAC) as Full Paper! 
 - 2024, Dec 4: One co-author paper was accepted by Automatica, congratulations to Tao Xu!
 - 2024, Nov 16: One paper was accepted by IEEE Transactions on Automatic Control (TAC) as Full Paper! 
@@ -31,12 +32,12 @@ redirect_from:
 - 2024, Jun 19: I have joined the Division of Decision and Control Systems, KTH Royal Institute of Technology, as a Postdoc Researcher. 
 - 2024, Jun 18: One co-author paper was accepted by IEEE Journal of Selected Topics in Signal Processing (JSTSP), congratulations to Zitong Wang!
 - 2024, May 23: Yushan Li has successfully defended his doctoral dissertation!
-- 2023, Dec 14: Yushan Li was awarded Shanghai Jiao Tong University “**Academic Star**” (only 10 persons per year), congratulations!
-- 2023, Nov 5: Yushan Li was invited to present the latest works at the 2023 ZJU Swarm Intelligence Unmanned Systems National Academic Forum For Ph.D Candidates in Hangzhou, China, and received the **Best Oral Presentation Award**. 
-- 2023, Oct 21: Yushan was invited to give a **keynote speech** at The 7th SJTU-FDU Joint Information Technology Academic Forum.
-- 2023, Sep 25: Yushan Li was awarded the 2023 National Scholarship for Graduates.
 <details>
 <summary>See earlier news</summary>
+&emsp;- &nbsp;2023, Dec 14: Yushan Li was awarded Shanghai Jiao Tong University “**Academic Star**” (only 10 persons per year), congratulations!<br/>
+&emsp;- &nbsp;2023, Nov 5: Yushan Li was invited to present the latest works at the 2023 ZJU Swarm Intelligence Unmanned Systems National Academic Forum For Ph.D Candidates in Hangzhou, China, and received the **Best Oral Presentation Award**. <br/>
+&emsp;- &nbsp; 2023, Oct 21: Yushan was invited to give a **keynote speech** at The 7th SJTU-FDU Joint Information Technology Academic Forum.<br/>
+&emsp;- &nbsp; 2023, Sep 25: Yushan Li was awarded the 2023 National Scholarship for Graduates.<br/>
 &emsp;- &nbsp;2023, Aug 4: One paper was accepted by IEEE Transactions on Automatic Control (TAC) as Full Paper, congratulations! <br/>
 
 &emsp;- &nbsp;2023, Mar 6: Yushan Li has won the 2022 Shanghai Association of Automation Best Paper Award (the IEEE T-RO'22 paper), congratulations!<br/>
@@ -60,12 +61,12 @@ redirect_from:
 
 # Selected Publications
 
-1. **<u>Yushan Li</u>**, Zitong Wang, Jianping He, Lin Cai and Xinping Guan, ''Preserving Topology of Network Systems: Metric, Analysis, and Optimal Design”, IEEE Transactions on Automatic Control (TAC), 2024 (Full Paper). [[Publisher]](https://doi.org/10.1109/TAC.2024.3503501)
-2. **<u>Yushan Li</u>**, Jianping He, Cailian chen and Xinping Guan, ''Topology Inference for Network Systems: Causality Perspective and Non-asymptotic Performance”, IEEE Transactions on Automatic Control (TAC), 2023 (Full Paper). [[Publisher]](https://doi.org/10.1109/TAC.2023.3303816) [[arXiv]](https://arxiv.org/abs/2106.01031)
-3. **<u>Yushan Li</u>**, Jianping He, Lin Cai and Xinping Guan, ''Local Topology Inference of Mobile
+1. **<u>Yushan Li</u>**, Jianping He, Cailian Chen, Xinping Guan and Lin Cai, ''Securing Formation Control of Mobile Robotic Networks Against Replacement Attack”, IEEE Transactions on Automatic Control (TAC), 2025 (Full Paper). [[Publisher]](https://doi.org/10.1109/TAC.2025.3526002)
+2. **<u>Yushan Li</u>**, Zitong Wang, Jianping He, Lin Cai and Xinping Guan, ''Preserving Topology of Network Systems: Metric, Analysis, and Optimal Design”, IEEE Transactions on Automatic Control (TAC), 2025 (Full Paper). [[Publisher]](https://doi.org/10.1109/TAC.2024.3503501)
+3. **<u>Yushan Li</u>**, Jianping He, Cailian chen and Xinping Guan, ''Topology Inference for Network Systems: Causality Perspective and Non-asymptotic Performance”, IEEE Transactions on Automatic Control (TAC), 2024 (Full Paper). [[Publisher]](https://doi.org/10.1109/TAC.2023.3303816) [[arXiv]](https://arxiv.org/abs/2106.01031)
+4. **<u>Yushan Li</u>**, Jianping He, Lin Cai and Xinping Guan, ''Local Topology Inference of Mobile
    Robotic Networks Under Formation Control”, IEEE Transactions on Automatic Control (TAC), 2023 (Full Paper). [[Publisher]](https://doi.org/10.1109/TAC.2023.3237484) [[arXiv]](https://arxiv.org/abs/2205.00243)
-4. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, ''Intelligent Physical Attack Against Mobile Robots with Obstacle-avoidance”, IEEE Transactions on Robotics (T-RO), 2023 (Full Paper). [[Publisher]](https://doi.org/10.1109/TRO.2022.3201394) [[arXiv]](https://arxiv.org/abs/1910.06461)
-5. **<u>Yushan Li</u>** and Jianping He, “Topology Inference for Networked Dynamical Systems: A Causality and Correlation Perspective”, IEEE Conference on Decision and Control (CDC), 2021. [[Publisher]](https://ieeexplore.ieee.org/document/9682968)
+5. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, ''Intelligent Physical Attack Against Mobile Robots with Obstacle-avoidance”, IEEE Transactions on Robotics (T-RO), 2023 (Full Paper). [[Publisher]](https://doi.org/10.1109/TRO.2022.3201394) [[arXiv]](https://arxiv.org/abs/1910.06461)
 
 **[See More Publications](https://yushan-li.github.io/publication-list/)**
 
@@ -75,6 +76,7 @@ redirect_from:
 
 # Invited Talks
 
+- 2025 Jan, Academy of Mathematics and Systems Science, CAS, China. 
 - 2023 Nov, oral presentation in the 2023 ZJU Swarm Intelligence Unmanned Systems National Academic Forum For Ph.D Candidates, Zhejiang University, Hangzhou, China.
 - 2023 Oct, keynote speech in The 7th SJTU-FDU Joint Information Technology Academic Forum, Fudan University, Shanghai, China. 
 - 2023 Jul, “Topology Inference and Cooperation Security of Mobile Robotic Networks”, Graduate Student Seminar on Control and Optimization, East China University of Science and Technology, Shanghai, China. 

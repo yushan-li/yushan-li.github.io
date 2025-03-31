@@ -14,7 +14,7 @@ redirect_from:
 
 <center><b><i>Welcome to Yushan Li's homepage!</i></b></center> -->
 
-**Biography:**  Yushan Li is currently a Postdoc Researcher in the Division of Decision and Control Systems, KTH Royal Institute of Technology, Sweden, and is under the supervision of Prof. [Dimos V. Dimarogonas](https://people.kth.se/~dimos/index.html). Before that, he received his Ph.D degree in Control Science and Engineering from Shanghai Jiao Tong University, Shanghai, China, supervised by Prof. [Xinping Guan](https://english.seiee.sjtu.edu.cn/english/detail/708_591.htm) and Prof. [Jianping He](https://iwin-fins.com). He received the B.E. degree in Automation from Huazhong University of Science and Technology, Wuhan, China, in 2018. His current research focuses on the inference and cooperation of networked systems. 
+**Biography:**  Yushan Li is currently a Postdoc Researcher in the Division of Decision and Control Systems, KTH Royal Institute of Technology, Sweden, and is under the supervision of Prof. [Dimos V. Dimarogonas](https://people.kth.se/~dimos/index.html). Before that, he received his Ph.D degree in Control Science and Engineering from Shanghai Jiao Tong University (SJTU), Shanghai, China, supervised by Prof. [Xinping Guan](https://english.seiee.sjtu.edu.cn/english/detail/708_591.htm) and Prof. [Jianping He](https://iwin-fins.com). He received the B.E. degree in Automation from Huazhong University of Science and Technology (HUST), Wuhan, China, in 2018. His current research focuses on the inference and cooperation of networked systems. 
 
    **[Google Scholar](https://scholar.google.com/citations?user=yPDjyMoAAAAJ&hl=en&oi=ao)**	&nbsp;&nbsp;&nbsp;   [**ResearchGate**](https://www.researchgate.net/profile/Yushan-Li-7)
 
@@ -24,6 +24,7 @@ redirect_from:
 
 # Latest News
 
+- 2025 Mar 29: My doctoral thesis received the **2024 SJTU Outstanding Doctoral Dissertation Award** (only 15 recipients university-wide)!
 - 2025 Jan 23: One co-author paper was accepted by IEEE Transactions on Cybernetics, congratulations to Zitong Wang!
 - 2024, Dec 26: One paper was accepted by IEEE Transactions on Automatic Control (TAC) as Full Paper! 
 - 2024, Dec 4: One co-author paper was accepted by Automatica, congratulations to Tao Xu!
@@ -91,12 +92,14 @@ redirect_from:
 
 # Honors and Awards
 
+- 2025: Shanghai Jiao Tong University Outstanding Doctoral Dissertation Award (15 recipients university-wide)
+  
 - 2024: 
   - Honorable Mention of Poster Paper Award at Chinese Control Conference
   - Outstanding Graduate Student of Shanghai City
 
 - 2023: 
-  - Shanghai Jiao Tong University “**Academic Star**”
+  - Shanghai Jiao Tong University “**Academic Star**” (10 recipients university-wide)
   - The National Scholarship for Graduate Student
   - The 2022 Shanghai Association of Automation Best Paper Award 
 - 2022: The National Scholarship for Graduate Student

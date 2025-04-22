@@ -5,9 +5,15 @@ author_profile: true
 redirect_from: 
   - /pl/
   - /publication-list.html
+
 ---
 
 A complete list of my publications can be found at [Google Scholar](https://scholar.google.com/citations?user=yPDjyMoAAAAJ&hl=en&oi=ao)
+
+# Preprints
+
+1. **<u>Yushan Li</u>**, Jianping He, and Dimos V. Dimarogonas, “Inverse Inference on Cooperative Control of Networked Dynamical Systems", under review. [[arXiv](http://arxiv.org/abs/2504.13701)]
+2. Jianping He, **<u>Yushan Li</u>**, Lin Cai, and Xinping Guan, “I Can Read Your Mind: Control Mechanism Secrecy of Networked Dynamical Systems under Inference Attacks”, under review. [[arXiv](https://arxiv.org/abs/2205.03556)]
 
 # Journal Articles
 
@@ -42,7 +48,3 @@ A complete list of my publications can be found at [Google Scholar](https://scho
 16. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, ''[Learning-based Intelligent Attack against Formation Control with Obstacle-avoidance](https://ieeexplore.ieee.org/document/8814377)”, *2019 American Control Conference*, Philadelphia, PA, USA, July 2019. 
 17. Han Wang, **<u>Yushan Li</u>**, Wenbin Yu, Jianping He and Xinping Guan, “[Moving Obstacle Avoidance and Topology Recovery for Multi-agent Systems](https://doi.org/10.23919/ACC.2019.8814369)”, *2019 American Control Conference*, Philadelphia, PA, USA, July 2019. 
 18. **<u>Yushan Li</u>**, Han Wang, Jianping He and Xinping Guan, “[Optimal Topology Recovery Scheme for Multi-robot Formation Control](https://ieeexplore.ieee.org/document/8781433)”, *28th IEEE International Symposium on Industrial Electronics*, Vancouver, BC, Canada, June 2019.
-
-# Preprints
-
-1. Jianping He, **<u>Yushan Li</u>**, Lin Cai, and Xinping Guan, “I Can Read Your Mind: Control Mechanism Secrecy of Networked Dynamical Systems under Inference Attacks”, under review. [[arXiv](https://arxiv.org/abs/2205.03556)]

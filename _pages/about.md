@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 
 
+
 ---
 
 <!-- 
@@ -24,8 +25,9 @@ redirect_from:
 
 # Latest News
 
-- 2025 Mar 29: My doctoral thesis received the **2024 SJTU Outstanding Doctoral Dissertation Award** (only 15 recipients university-wide)!
-- 2025 Jan 23: One co-author paper was accepted by IEEE Transactions on Cybernetics, congratulations to Zitong Wang!
+- 2025, Apr 23: I gave a poster presentation on KTH–University of Padova Joint Workshop on emerging topics at the intersection of learning, control, and optimization. 
+- 2025, Mar 29: My doctoral thesis received the **2024 SJTU Outstanding Doctoral Dissertation Award** (only 15 recipients university-wide)!
+- 2025, Jan 23: One co-author paper was accepted by IEEE Transactions on Cybernetics, congratulations to Zitong Wang!
 - 2024, Dec 26: One paper was accepted by IEEE Transactions on Automatic Control (TAC) as Full Paper! 
 - 2024, Dec 4: One co-author paper was accepted by Automatica, congratulations to Tao Xu!
 - 2024, Nov 16: One paper was accepted by IEEE Transactions on Automatic Control (TAC) as Full Paper! 
@@ -33,6 +35,7 @@ redirect_from:
 - 2024, Jun 19: I have joined the Division of Decision and Control Systems, KTH Royal Institute of Technology, as a Postdoc Researcher. 
 - 2024, Jun 18: One co-author paper was accepted by IEEE Journal of Selected Topics in Signal Processing (JSTSP), congratulations to Zitong Wang!
 - 2024, May 23: Yushan Li has successfully defended his doctoral dissertation!
+
 <details>
 <summary>See earlier news</summary>
 &emsp;- &nbsp;2023, Dec 14: Yushan Li was awarded Shanghai Jiao Tong University “**Academic Star**” (only 10 persons per year), congratulations!<br/>
@@ -40,6 +43,7 @@ redirect_from:
 &emsp;- &nbsp; 2023, Oct 21: Yushan was invited to give a **keynote speech** at The 7th SJTU-FDU Joint Information Technology Academic Forum.<br/>
 &emsp;- &nbsp; 2023, Sep 25: Yushan Li was awarded the 2023 National Scholarship for Graduates.<br/>
 &emsp;- &nbsp;2023, Aug 4: One paper was accepted by IEEE Transactions on Automatic Control (TAC) as Full Paper, congratulations! <br/>
+
 
 &emsp;- &nbsp;2023, Mar 6: Yushan Li has won the 2022 Shanghai Association of Automation Best Paper Award (the IEEE T-RO'22 paper), congratulations!<br/>
 
@@ -93,7 +97,7 @@ redirect_from:
 # Honors and Awards
 
 - 2025: Shanghai Jiao Tong University Outstanding Doctoral Dissertation Award (15 recipients university-wide)
-  
+
 - 2024: 
   - Honorable Mention of Poster Paper Award at Chinese Control Conference
   - Outstanding Graduate Student of Shanghai City

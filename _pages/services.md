@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /sv/
   - /services.html
+
 ---
 
 # Conference Organization
@@ -18,18 +19,21 @@ redirect_from:
 - IEEE Transactions on Automatic Control
 - IEEE Transactions on Control of Network Systems
 - IEEE Transactions on Industrial Informatics
+- IEEE Transactions on Mobile Computing
 - IEEE Transactions on Vehicular Technology
+- IEEE/CAA Journal of Automatica Sinica
+- IEEE Systems Journal
 - IEEE Control Systems Letters
 - IEEE Open Journal of Vehicular Technology
 - ISA Transactions
 - KSII Transactions on Internet and Information Systems
-- International Journal of Intelligent Robotics and Applications
-- ACTA Automatica Sinica
 
 # Conference Reviewer
 
 - American Control Conference
 - IEEE Conference on Decision and Control
+- IFAC World Congress
 - IEEE Vehicular Technology Conference
+- IEEE International Conference on Industrial Cyber-Physical Systems
 - IFAC Conference on Cyber-Physical and Human-Systems
 - The Chinese Automation Congress

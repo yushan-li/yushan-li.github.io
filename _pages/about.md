@@ -25,6 +25,8 @@ redirect_from:
 
 # Latest News
 
+- 2025, Jul 15: One conference paper entitled "Resistant Topology Inference in Consensus Networks: A Feedback-Based Design" was accepted by IEEE Conference on Decision and Control.
+- 2025, Jun 13: I gave a poster presentation on Reglermötet 2025 (Swedish Control Conference 2025) at Lund University. 
 - 2025, Apr 23: I gave a poster presentation on KTH–University of Padova Joint Workshop on emerging topics at the intersection of learning, control, and optimization. 
 - 2025, Mar 29: My doctoral thesis received the **2024 SJTU Outstanding Doctoral Dissertation Award** (only 15 recipients university-wide)!
 - 2025, Jan 23: One co-author paper was accepted by IEEE Transactions on Cybernetics, congratulations to Zitong Wang!

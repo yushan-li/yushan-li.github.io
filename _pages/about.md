@@ -15,7 +15,7 @@ redirect_from:
 
 <center><b><i>Welcome to Yushan Li's homepage!</i></b></center> -->
 
-**Biography:**  Yushan Li is currently a Postdoc Researcher in the Division of Decision and Control Systems, KTH Royal Institute of Technology, Sweden, and is under the supervision of Prof. [Dimos V. Dimarogonas](https://people.kth.se/~dimos/index.html). Before that, he received his Ph.D degree in Control Science and Engineering from Shanghai Jiao Tong University (SJTU), Shanghai, China, supervised by Prof. [Xinping Guan](https://english.seiee.sjtu.edu.cn/english/detail/708_591.htm) and Prof. [Jianping He](https://iwin-fins.com). He received the B.E. degree in Automation from Huazhong University of Science and Technology (HUST), Wuhan, China, in 2018. His current research focuses on the inference and cooperation of networked systems. 
+**Biography:**  Yushan Li is currently a Postdoc Researcher in the Division of Decision and Control Systems, KTH Royal Institute of Technology, Sweden, and is under the supervision of Prof. [Dimos V. Dimarogonas](https://people.kth.se/~dimos/index.html). Before that, he received his Ph.D degree in Control Science and Engineering from Shanghai Jiao Tong University (SJTU), Shanghai, China, in June 2024, supervised by Prof. [Xinping Guan](https://english.seiee.sjtu.edu.cn/english/detail/708_591.htm) and Prof. [Jianping He](https://iwin-fins.com). He received the B.E. degree in Automation from Huazhong University of Science and Technology (HUST), Wuhan, China, in June 2018. His current research focuses on the inference and cooperation of networked systems. 
 
    **[Google Scholar](https://scholar.google.com/citations?user=yPDjyMoAAAAJ&hl=en&oi=ao)**	&nbsp;&nbsp;&nbsp;   [**ResearchGate**](https://www.researchgate.net/profile/Yushan-Li-7)
 
@@ -25,7 +25,7 @@ redirect_from:
 
 # Latest News
 
-- 2025, Jul 15: One conference paper entitled "Resistant Topology Inference in Consensus Networks: A Feedback-Based Design" was accepted by IEEE Conference on Decision and Control.
+- 2025, Jul 15: One conference paper was accepted by IEEE Conference on Decision and Control.
 - 2025, Jun 13: I gave a poster presentation on Reglermötet 2025 (Swedish Control Conference 2025) at Lund University. 
 - 2025, Apr 23: I gave a poster presentation on KTH–University of Padova Joint Workshop on emerging topics at the intersection of learning, control, and optimization. 
 - 2025, Mar 29: My doctoral thesis received the **2024 SJTU Outstanding Doctoral Dissertation Award** (only 15 recipients university-wide)!

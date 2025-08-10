@@ -25,6 +25,7 @@ redirect_from:
 
 # Latest News
 
+- 2025, Aug 10: One co-author paper was accepted by IEEE Transactions on Automatic Control as Full Paper, congratulations to Qing Jiao!
 - 2025, Jul 15: One conference paper was accepted by IEEE Conference on Decision and Control.
 - 2025, Jun 13: I gave a poster presentation on Reglermötet 2025 (Swedish Control Conference 2025) at Lund University. 
 - 2025, Apr 23: I gave a poster presentation on KTH–University of Padova Joint Workshop on emerging topics at the intersection of learning, control, and optimization. 

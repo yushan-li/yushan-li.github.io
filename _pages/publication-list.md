@@ -16,7 +16,7 @@ A complete list of my publications can be found at [Google Scholar](https://scho
 
 # Journal Articles
 
-1. **<u>Yushan Li</u>**, Jianping He, and Dimos V. Dimarogonas, “Inverse Inference on Cooperative Control of Networked Dynamical Systems", *Automatica*, to appear, 2026. [[arXiv](http://arxiv.org/abs/2504.13701)]
+1. **<u>Yushan Li</u>**, Jianping He, and Dimos V. Dimarogonas, “Inverse Inference on Cooperative Control of Networked Dynamical Systems", *Automatica*, to appear, 2026. (Regular Paper) [[arXiv](http://arxiv.org/abs/2504.13701)]
 2. **<u>Yushan Li</u>**, Jianping He, Cailian Chen, Xinping Guan and Lin Cai, “[Securing Formation Control of Mobile Robotic Networks Against Replacement Attack](https://doi.org/10.1109/TAC.2025.3526002)”, *IEEE Transactions on Automatic Control*, vol. 70, no. 7, pp. 4424-4438, July 2025. (Full Paper)
 3. **<u>Yushan Li</u>**, Zitong Wang, Jianping He, Cailian Chen and Xinping Guan, ''[Preserving Topology of Network Systems: Metric, Analysis, and Optimal Design](https://doi.org/10.1109/TAC.2024.3503501)”, *IEEE Transactions on Automatic Control*, vol. 70, no. 6, pp. 3540-3555, June 2025. (Full Paper)
 4. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, “[Topology Inference for Network Systems: Causality Perspective and Non-asymptotic Performance](https://doi.org/10.1109/TAC.2023.3303816)”, *IEEE Transactions on Automatic Control*, vol. 69, no. 6, pp. 3483-3498, June 2024.  (Full Paper) [[arXiv](https://arxiv.org/abs/2106.01031)]

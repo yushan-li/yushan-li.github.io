@@ -25,6 +25,7 @@ redirect_from:
 
 # Latest News
 
+- 2026, Apr 14: One paper was accepted by IFAC World Congress 2026!
 - 2026, Mar 20: One paper was accepted by Automatica as Regular Paper!
 - 2025, Aug 10: One co-author paper was accepted by IEEE Transactions on Automatic Control as Full Paper, congratulations to Qing Jiao!
 - 2025, Jul 15: One conference paper was accepted by IEEE Conference on Decision and Control.

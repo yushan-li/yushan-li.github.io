@@ -12,11 +12,11 @@ A complete list of my publications can be found at [Google Scholar](https://scho
 
 # Preprints
 
-1. Jianping He, **<u>Yushan Li</u>**, Lin Cai, and Xinping Guan, “I Can Read Your Mind: Control Mechanism Secrecy of Networked Dynamical Systems under Inference Attacks”, under review. [[arXiv](https://arxiv.org/abs/2205.03556)]
+1. Jianping He, **<u>Yushan Li</u>**, Lin Cai and Xinping Guan, “I Can Read Your Mind: Control Mechanism Secrecy of Networked Dynamical Systems under Inference Attacks”, under review. [[arXiv](https://arxiv.org/abs/2205.03556)]
 
 # Journal Articles
 
-1. **<u>Yushan Li</u>**, Jianping He, and Dimos V. Dimarogonas, “Inverse Inference on Cooperative Control of Networked Dynamical Systems", *Automatica*, to appear, 2026. (Regular Paper) [[arXiv](http://arxiv.org/abs/2504.13701)]
+1. **<u>Yushan Li</u>**, Jianping He and Dimos V. Dimarogonas, “Inverse Inference on Cooperative Control of Networked Dynamical Systems", *Automatica*, to appear, 2026. (Regular Paper) [[arXiv](http://arxiv.org/abs/2504.13701)]
 2. **<u>Yushan Li</u>**, Jianping He, Cailian Chen, Xinping Guan and Lin Cai, “[Securing Formation Control of Mobile Robotic Networks Against Replacement Attack](https://doi.org/10.1109/TAC.2025.3526002)”, *IEEE Transactions on Automatic Control*, vol. 70, no. 7, pp. 4424-4438, July 2025. (Full Paper)
 3. **<u>Yushan Li</u>**, Zitong Wang, Jianping He, Cailian Chen and Xinping Guan, ''[Preserving Topology of Network Systems: Metric, Analysis, and Optimal Design](https://doi.org/10.1109/TAC.2024.3503501)”, *IEEE Transactions on Automatic Control*, vol. 70, no. 6, pp. 3540-3555, June 2025. (Full Paper)
 4. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, “[Topology Inference for Network Systems: Causality Perspective and Non-asymptotic Performance](https://doi.org/10.1109/TAC.2023.3303816)”, *IEEE Transactions on Automatic Control*, vol. 69, no. 6, pp. 3483-3498, June 2024.  (Full Paper) [[arXiv](https://arxiv.org/abs/2106.01031)]
@@ -29,9 +29,9 @@ A complete list of my publications can be found at [Google Scholar](https://scho
 
 # Conference Articles 
 
-1. Wang Xi, Jingxuan Tang, Zhiyuan Zeng, **<u>Yushan Li</u>**, Jianping He, “Exploit Agile Mobility of Steerable-Wheeled Mobile Robots: A Fast Motion Planning Approach”, *Robotics: Science and Systems 2026*, Sydney, Australia, July 2026, to appear. 
-2. **<u>Yushan Li</u>**, Rikard Forlin, Dimos V. Dimarogonas, and Petter Brodin, “Topology Inference for Immune System Networks by Using Cell Amount Data”, *23rd IFAC World Congress*, Busan, Republic of Korea, August 2026, to appear.
-3. **<u>Yushan Li</u>**, Jiabao He, and Dimos V. Dimarogonas, “[Resistant Topology Inference in Consensus Networks: A Feedback-Based Design](https://doi.org/10.1109/CDC57313.2025.11312805)”, *64th IEEE Conference on Decision and Control*, Rio de Janeiro, Brazil, December 2025.
+1. Wang Xi, Jingxuan Tang, Zhiyuan Zeng, **<u>Yushan Li</u>** and Jianping He, “Exploit Agile Mobility of Steerable-Wheeled Mobile Robots: A Fast Motion Planning Approach”, *Robotics: Science and Systems 2026*, Sydney, Australia, July 2026, to appear. 
+2. **<u>Yushan Li</u>**, Rikard Forlin, Dimos V. Dimarogonas and Petter Brodin, “Topology Inference for Immune System Networks by Using Cell Amount Data”, *23rd IFAC World Congress*, Busan, Republic of Korea, August 2026, to appear.
+3. **<u>Yushan Li</u>**, Jiabao He and Dimos V. Dimarogonas, “[Resistant Topology Inference in Consensus Networks: A Feedback-Based Design](https://doi.org/10.1109/CDC57313.2025.11312805)”, *64th IEEE Conference on Decision and Control*, Rio de Janeiro, Brazil, December 2025.
 4. Qing Jiao, **<u>Yushan Li</u>** and Jianping He, "[Topology Inference for Network Systems with Unknown Inputs](https://doi.org/10.23919/ACC63710.2025.11107565)", *2025 American Control Conference*, Denver, CO, USA, July 2025. 
 5. Qing Jiao, **<u>Yushan Li</u>** and Jianping He, "[A Probabilistic Topology Inference Method for Networked Dynamical System via Single Excitation](https://doi.org/10.1109/CDC56724.2024.10886470)", *63rd IEEE Conference on Decision and Control*, Milan, Italy, December 2024. 
 6. Kexiang Mao, **<u>Yushan Li</u>**, Jianping He and Xiaoming Duan, "[Herding Attack against Mobile Robotic Networks with Formation Control and Obstacle Avoidance](https://doi.org/10.23919/CCC63176.2024.10662624)", *2024 43rd Chinese Control Conference*, Kunming, China, July 2024. (**Honorable Mention of Poster Paper Award**)

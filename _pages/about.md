@@ -15,7 +15,7 @@ redirect_from:
 
 <center><b><i>Welcome to Yushan Li's homepage!</i></b></center> -->
 
-**Biography:**  Yushan Li is currently a Postdoc Researcher in the Division of Decision and Control Systems, KTH Royal Institute of Technology, Sweden, and is under the supervision of Prof. [Dimos V. Dimarogonas](https://people.kth.se/~dimos/index.html). Before that, he received his Ph.D degree in Control Science and Engineering from Shanghai Jiao Tong University (SJTU), Shanghai, China, in June 2024, supervised by Prof. [Xinping Guan](https://english.seiee.sjtu.edu.cn/english/detail/708_591.htm) and Prof. [Jianping He](https://iwin-fins.com). He received the B.E. degree in Automation from Huazhong University of Science and Technology (HUST), Wuhan, China, in June 2018. His current research focuses on the inference and cooperation of networked systems. 
+**Biography:**  Yushan Li is currently a Postdoc Researcher in the Department of Decision and Control Systems, KTH Royal Institute of Technology, Sweden, and is under the supervision of Prof. [Dimos V. Dimarogonas](https://people.kth.se/~dimos/index.html). Before that, he received his Ph.D degree in Control Science and Engineering from Shanghai Jiao Tong University (SJTU), Shanghai, China, in June 2024, supervised by Prof. [Xinping Guan](https://english.seiee.sjtu.edu.cn/english/detail/708_591.htm) and Prof. [Jianping He](https://iwin-fins.com). He received the B.E. degree in Automation from Huazhong University of Science and Technology (HUST), Wuhan, China, in June 2018. His current research focuses on the inference and cooperation of networked systems. 
 
    **[Google Scholar](https://scholar.google.com/citations?user=yPDjyMoAAAAJ&hl=en&oi=ao)**	&nbsp;&nbsp;&nbsp;   [**ResearchGate**](https://www.researchgate.net/profile/Yushan-Li-7)
 
@@ -25,7 +25,8 @@ redirect_from:
 
 # Latest News
 
-- 2026, Apr 27: One co-author paper was accepted by Robotics: Science and Systems (RSS) 2026, congratulations to Wang Xi!
+- 2026, June 9: One co-author paper was accepted by IEEE Control Systems Letters (L-CSS), congratulations to Siyi !
+- 2026, Apr 27: One co-author paper was accepted by Robotics: Science and Systems (RSS) 2026, congratulations to Wang Xi !
 - 2026, Apr 14: One paper was accepted by IFAC World Congress 2026!
 - 2026, Mar 20: One paper was accepted by Automatica as Regular Paper!
 - 2025, Aug 10: One co-author paper was accepted by IEEE Transactions on Automatic Control as Full Paper, congratulations to Qing Jiao!

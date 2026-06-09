@@ -25,8 +25,8 @@ redirect_from:
 
 # Latest News
 
-- 2026, June 9: One co-author paper was accepted by IEEE Control Systems Letters (L-CSS), congratulations to Siyi !
-- 2026, Apr 27: One co-author paper was accepted by Robotics: Science and Systems (RSS) 2026, congratulations to Wang Xi !
+- 2026, June 9: One co-author paper was accepted by IEEE Control Systems Letters (L-CSS), congratulations to Siyi Wang!
+- 2026, Apr 27: One co-author paper was accepted by Robotics: Science and Systems (RSS) 2026, congratulations to Wang Xi!
 - 2026, Apr 14: One paper was accepted by IFAC World Congress 2026!
 - 2026, Mar 20: One paper was accepted by Automatica as Regular Paper!
 - 2025, Aug 10: One co-author paper was accepted by IEEE Transactions on Automatic Control as Full Paper, congratulations to Qing Jiao!

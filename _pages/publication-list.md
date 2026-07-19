@@ -31,8 +31,8 @@ A complete list of my publications can be found at [Google Scholar](https://scho
 
 # Conference Articles 
 
-1. Wang Xi, Jingxuan Tang, Zhiyuan Zeng, **<u>Yushan Li</u>** and Jianping He, “Exploit Agile Mobility of Steerable-Wheeled Mobile Robots: A Fast Motion Planning Approach”, *Robotics: Science and Systems 2026*, Sydney, Australia, July 2026, to appear. 
-2. **<u>Yushan Li</u>**, Rikard Forlin, Dimos V. Dimarogonas and Petter Brodin, “Topology Inference for Immune System Networks by Using Cell Amount Data”, *23rd IFAC World Congress*, Busan, Republic of Korea, August 2026, to appear.
+1. **<u>Yushan Li</u>**, Rikard Forlin, Dimos V. Dimarogonas and Petter Brodin, “Topology Inference for Immune System Networks by Using Cell Amount Data”, *23rd IFAC World Congress*, Busan, Republic of Korea, August 2026, to appear.
+2. Wang Xi, Jingxuan Tang, Zhiyuan Zeng, **<u>Yushan Li</u>** and Jianping He, “[Exploit Agile Mobility of Steerable-Wheeled Mobile Robots: A Fast Motion Planning Approach](https://www.roboticsproceedings.org/rss22/p188.pdf)”, *Robotics: Science and Systems 2026*, Sydney, Australia, July 2026. 
 3. **<u>Yushan Li</u>**, Jiabao He and Dimos V. Dimarogonas, “[Resistant Topology Inference in Consensus Networks: A Feedback-Based Design](https://doi.org/10.1109/CDC57313.2025.11312805)”, *64th IEEE Conference on Decision and Control*, Rio de Janeiro, Brazil, December 2025.
 4. Qing Jiao, **<u>Yushan Li</u>** and Jianping He, "[Topology Inference for Network Systems with Unknown Inputs](https://doi.org/10.23919/ACC63710.2025.11107565)", *2025 American Control Conference*, Denver, CO, USA, July 2025. 
 5. Qing Jiao, **<u>Yushan Li</u>** and Jianping He, "[A Probabilistic Topology Inference Method for Networked Dynamical System via Single Excitation](https://doi.org/10.1109/CDC56724.2024.10886470)", *63rd IEEE Conference on Decision and Control*, Milan, Italy, December 2024. 

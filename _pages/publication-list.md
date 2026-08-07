@@ -12,8 +12,9 @@ A complete list of my publications can be found at [Google Scholar](https://scho
 
 # Preprints
 
-1. **<u>Yushan Li</u>**, Jiabao He, Julien M. Hendrickx and Dimos V. Dimarogonas, “Preserving Topology Privacy of Network Systems by Feedback: Conditions and Distributed Design”, under review.  [[arXiv](https://arxiv.org/abs/2605.15743)]
-1. Jianping He, **<u>Yushan Li</u>**, Lin Cai and Xinping Guan, “I Can Read Your Mind: Control Mechanism Secrecy of Networked Dynamical Systems under Inference Attacks”, under review. [[arXiv](https://arxiv.org/abs/2205.03556)]
+1. Jiabao He, Feiran Zhao, **<u>Yushan Li</u>**, Yue Ju, Florian Dörfler, Håkan Hjalmarsson, "Fundamental Limitations of Data-Driven Control: A Statistical Decision Perspective", under review.  [[arXiv](https://arxiv.org/abs/2608.01098)]
+2. **<u>Yushan Li</u>**, Jiabao He, Julien M. Hendrickx and Dimos V. Dimarogonas, “Preserving Topology Privacy of Network Systems by Feedback: Conditions and Distributed Design”, under review.  [[arXiv](https://arxiv.org/abs/2605.15743)]
+3. Jianping He, **<u>Yushan Li</u>**, Lin Cai and Xinping Guan, “I Can Read Your Mind: Control Mechanism Secrecy of Networked Dynamical Systems under Inference Attacks”, under review. [[arXiv](https://arxiv.org/abs/2205.03556)]
 
 # Journal Articles
 

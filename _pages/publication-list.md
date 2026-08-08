@@ -32,26 +32,49 @@ A complete list of my publications can be found at [Google Scholar](https://scho
 
 # Conference Articles 
 
-1. **<u>Yushan Li</u>**, Rikard Forlin, Dimos V. Dimarogonas and Petter Brodin, “Topology Inference for Immune System Networks by Using Cell Amount Data”, *23rd IFAC World Congress*, Busan, Republic of Korea, August 2026, to appear.
-2. Wang Xi, Jingxuan Tang, Zhiyuan Zeng, **<u>Yushan Li</u>** and Jianping He, “[Exploit Agile Mobility of Steerable-Wheeled Mobile Robots: A Fast Motion Planning Approach](https://www.roboticsproceedings.org/rss22/p188.pdf)”, *Robotics: Science and Systems 2026*, Sydney, Australia, July 2026, Paper ID 188.
-3. **<u>Yushan Li</u>**, Jiabao He and Dimos V. Dimarogonas, “[Resistant Topology Inference in Consensus Networks: A Feedback-Based Design](https://doi.org/10.1109/CDC57313.2025.11312805)”, *64th IEEE Conference on Decision and Control*, Rio de Janeiro, Brazil, December 2025, pp. 2563-2568.
-4. Qing Jiao, **<u>Yushan Li</u>** and Jianping He, "[Topology Inference for Network Systems with Unknown Inputs](https://doi.org/10.23919/ACC63710.2025.11107565)", *2025 American Control Conference*, Denver, CO, USA, July 2025, pp. 3207-3212.
-5. Qing Jiao, **<u>Yushan Li</u>** and Jianping He, "[A Probabilistic Topology Inference Method for Networked Dynamical System via Single Excitation](https://doi.org/10.1109/CDC56724.2024.10886470)", *63rd IEEE Conference on Decision and Control*, Milan, Italy, December 2024, pp. 5436-5441.
-6. Bingtong Chen, **<u>Yushan Li</u>**, Shukun Wu, Chongrong Fang, Jianping He, "[Learning-Based Defense Against Prediction-Based Displacement Attacks on Formation Control](https://doi.org/10.1109/CAC63892.2024.10864667)," 2024 China Automation Congress (CAC), Qingdao, China, November 2024, pp. 2985-2990.
-7. Kexiang Mao, **<u>Yushan Li</u>**, Jianping He and Xiaoming Duan, "[Herding Attack against Mobile Robotic Networks with Formation Control and Obstacle Avoidance](https://doi.org/10.23919/CCC63176.2024.10662624)", *2024 43rd Chinese Control Conference*, Kunming, China, July 2024, pp. 5541-5547. (**Honorable Mention of Poster Paper Award**)
-8. Zitong Wang, **<u>Yushan Li</u>**, Xiaoming Duan and Jianping He, “[Topology-Preserving Second-Order Consensus: A Strategic Compensation Approach](https://doi.org/10.1109/CDC49753.2023.10383971)”, *62nd IEEE Conference on Decision and Control*, Singapore, December 2023, pp. 399-404.
-9. **<u>Yushan Li</u>**, Tao Xu, Jianping He, Cailian Chen and Xinping Guan, “[Inferring State-feedback Cooperative Control of Networked Dynamical Systems](https://doi.org/10.1016/j.ifacol.2023.10.1031)”, IFAC-PapersOnLine, Volume 56, Issue 2, 2023, pp. 8381-8386 (*22nd IFAC World Congress*, Yokohama, Japan, July 2023).
-10. Yan Zhong, **<u>Yushan Li</u>**, Xiaopeng Wang, Chongrong Fang and Jianping He. "[Learning-Based Perimeter Invasion Design with Partial Information of Defense Model](https://doi.org/10.1016/j.ifacol.2023.10.1774)", IFAC-PapersOnLine, Volume 56, Issue 2, 2023, pp.1319-1324 *(22nd IFAC World Congress*, Yokohama, Japan, July 2023).
-11. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, “[Inferring Topology of Networked Dynamical Systems by Active Excitations](https://doi.org/10.1109/CDC51059.2022.9992808)”, *61st IEEE Conference on Decision and Control*, Cancun, Mexico, December 2022, pp. 981-986.
-12. Zitong Wang, **<u>Yushan Li</u>**, Chongrong Fang and Jianping He, “[Distributed Topology-preserving Collaboration Algorithm against Inference Attack](https://doi.org/10.23919/ACC53348.2022.9867356)”, *2022 American Control Conference*, Atlanta, GA, USA, June 2022, pp. 2166-2171.
-13. **<u>Yushan Li</u>** and Jianping He, “[Topology Inference for Networked Dynamical Systems: A Causality and Correlation Perspective](https://ieeexplore.ieee.org/document/9682968)”, *60th IEEE Conference on Decision and Control*, Austin, TX, USA, December 2021, pp. 1218-1223.
-14. **<u>Yushan Li</u>**, Qing Jiao, Han Wang and Jianping He, “[Consensus and Approximation-based Distribution Statistics in Network Systems](https://ieeexplore.ieee.org/document/9483081)”, *2021 American Control Conference*, New Orleans, LA, USA, May 2021, pp. 3767-3772.
-15. **<u>Yushan Li</u>**, Jianping He and Lin Cai, “[Topology Inference on Partially Observable Mobile Robotic Networks under Formation Control](https://ieeexplore.ieee.org/document/9655038)”, *2021 European Control Conference*, Delft, Netherlands, June 2021, pp. 497-502.
-16. Qing Jiao, **<u>Yushan Li</u>**, Xiaoming Duan, Jianping He and Qing–Guo Wang, “[Multi-robot Target Search under Multi-peak Distribution: A Dynamic Approach based on High Confidence Area](https://doi.org/10.1109/VTC2021-Fall52928.2021.9625203)”, *94th IEEE Vehicular Technology Conference*, Norman, OK, USA, September 2021 (no page number, doi: 10.1109/VTC2021-Fall52928.2021.9625203).
-17. Qing Jiao, **<u>Yushan Li</u>** and Jianping He, “[Topology Inference for Consensus-based Cooperation under Time-invariant Latent Input](https://doi.org/10.1109/VTC2021-Fall52928.2021.9625259)”, *94th IEEE Vehicular Technology Conference*, Norman, OK, USA, September 2021 (no page number, doi: 10.1109/VTC2021-Fall52928.2021.9625259.).
-18. Hao Jiang, **<u>Yushan Li</u>**, Xuda Ding and Jianping He, “[Obstacle Avoidance Algorithm Based on Human Experience Knowledge](https://doi.org/10.1109/VTC2020-Fall49728.2020.9348589)”, *92nd IEEE Vehicular Technology Conference*, Victoria, BC, Canada, November 2020 (no page number, doi: 10.1109/VTC2020-Fall49728.2020.9348589.).
-19. Jialun Li, **<u>Yushan Li</u>**, Yulai Weng and Jianping He, “[Adaptive Task Allocation for Multi-agent Cooperation with Unknown Capabilities](https://doi.org/10.1109/VTC2020-Fall49728.2020.9348860)”, *92nd IEEE Vehicular Technology Conference*, Victoria, BC, Canada, November 2020 (no page number,  doi: 10.1109/VTC2020-Fall49728.2020.9348860.).
-20. Jialun Li, Jianping He, **<u>Yushan Li</u>** and Xinping Guan, “[Unpredictable Trajectory Design for Mobile Agents](https://doi.org/10.23919/ACC45564.2020.9147718)”, *2020 American Control Conference*, Denver, CO, USA, July 2020, pp. 1471-1476.
-21. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, “[Learning-based Intelligent Attack against Formation Control with Obstacle-avoidance](https://ieeexplore.ieee.org/document/8814377)”, *2019 American Control Conference*, Philadelphia, PA, USA, July 2019, pp. 2690-2695.
-22. Han Wang, **<u>Yushan Li</u>**, Wenbin Yu, Jianping He and Xinping Guan, “[Moving Obstacle Avoidance and Topology Recovery for Multi-agent Systems](https://doi.org/10.23919/ACC.2019.8814369)”, *2019 American Control Conference*, Philadelphia, PA, USA, July 2019, pp. 2696-2701.
-23. **<u>Yushan Li</u>**, Han Wang, Jianping He and Xinping Guan, “[Optimal Topology Recovery Scheme for Multi-robot Formation Control](https://ieeexplore.ieee.org/document/8781433)”, *28th IEEE International Symposium on Industrial Electronics*, Vancouver, BC, Canada, June 2019, pp. 1847-1852.
+1. **<u>Yushan Li</u>**, Rikard Forlin, Dimos V. Dimarogonas and Petter Brodin, “Topology Inference for Immune System Networks by Using Cell Amount Data”, *23rd IFAC World Congress*, Busan, Republic of Korea, 23-28 August 2026, to appear.
+
+2. Wang Xi, Jingxuan Tang, Zhiyuan Zeng, **<u>Yushan Li</u>** and Jianping He, “[Exploit Agile Mobility of Steerable-Wheeled Mobile Robots: A Fast Motion Planning Approach](https://www.roboticsproceedings.org/rss22/p188.pdf)”, *Robotics: Science and Systems 2026*, Sydney, Australia, 13-17 July 2026, Paper ID 188.
+
+3. **<u>Yushan Li</u>**, Jiabao He and Dimos V. Dimarogonas, “[Resistant Topology Inference in Consensus Networks: A Feedback-Based Design](https://doi.org/10.1109/CDC57313.2025.11312805)”, *64th IEEE Conference on Decision and Control*, Rio de Janeiro, Brazil, 10-12 December 2025, pp. 2563-2568.
+
+4. Qing Jiao, **<u>Yushan Li</u>** and Jianping He, "[Topology Inference for Network Systems with Unknown Inputs](https://doi.org/10.23919/ACC63710.2025.11107565)", *2025 American Control Conference*, Denver, CO, USA, 8-10 July 2025, pp. 3207-3212.
+
+5. Qing Jiao, **<u>Yushan Li</u>** and Jianping He, "[A Probabilistic Topology Inference Method for Networked Dynamical System via Single Excitation](https://doi.org/10.1109/CDC56724.2024.10886470)", *63rd IEEE Conference on Decision and Control*, Milan, Italy, 16-19 December 2024, pp. 5436-5441.
+
+6. Bingtong Chen, **<u>Yushan Li</u>**, Shukun Wu, Chongrong Fang, Jianping He, "[Learning-Based Defense Against Prediction-Based Displacement Attacks on Formation Control](https://doi.org/10.1109/CAC63892.2024.10864667)," 2024 China Automation Congress (CAC), Qingdao, China, 1-3 November 2024, pp. 2985-2990.
+
+7. Kexiang Mao, **<u>Yushan Li</u>**, Jianping He and Xiaoming Duan, "[Herding Attack against Mobile Robotic Networks with Formation Control and Obstacle Avoidance](https://doi.org/10.23919/CCC63176.2024.10662624)", *2024 43rd Chinese Control Conference*, Kunming, China, 28-31 July 2024, pp. 5541-5547. (**Honorable Mention of Poster Paper Award**)
+
+8. Zitong Wang, **<u>Yushan Li</u>**, Xiaoming Duan and Jianping He, “[Topology-Preserving Second-Order Consensus: A Strategic Compensation Approach](https://doi.org/10.1109/CDC49753.2023.10383971)”, *62nd IEEE Conference on Decision and Control*, Singapore, 13-15 December 2023, pp. 399-404.
+
+9. **<u>Yushan Li</u>**, Tao Xu, Jianping He, Cailian Chen and Xinping Guan, “[Inferring State-feedback Cooperative Control of Networked Dynamical Systems](https://doi.org/10.1016/j.ifacol.2023.10.1031)”, IFAC-PapersOnLine, Volume 56, Issue 2, 2023, pp. 8381-8386 (*22nd IFAC World Congress*, Yokohama, Japan, 9-14 July 2023).
+
+10. Yan Zhong, **<u>Yushan Li</u>**, Xiaopeng Wang, Chongrong Fang and Jianping He. "[Learning-Based Perimeter Invasion Design with Partial Information of Defense Model](https://doi.org/10.1016/j.ifacol.2023.10.1774)", IFAC-PapersOnLine, Volume 56, Issue 2, 2023, pp.1319-1324 *(22nd IFAC World Congress*, Yokohama, Japan, 9-14 July 2023).
+
+11. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, “[Inferring Topology of Networked Dynamical Systems by Active Excitations](https://doi.org/10.1109/CDC51059.2022.9992808)”, *61st IEEE Conference on Decision and Control*, Cancun, Mexico, 6-9 December 2022, pp. 981-986.
+
+12. Zitong Wang, **<u>Yushan Li</u>**, Chongrong Fang and Jianping He, “[Distributed Topology-preserving Collaboration Algorithm against Inference Attack](https://doi.org/10.23919/ACC53348.2022.9867356)”, *2022 American Control Conference*, Atlanta, GA, USA, 8-10 June 2022, pp. 2166-2171.
+
+13. **<u>Yushan Li</u>** and Jianping He, “[Topology Inference for Networked Dynamical Systems: A Causality and Correlation Perspective](https://ieeexplore.ieee.org/document/9682968)”, *60th IEEE Conference on Decision and Control*, Austin, TX, USA, 13-17 December 2021, pp. 1218-1223.
+
+14. **<u>Yushan Li</u>**, Qing Jiao, Han Wang and Jianping He, “[Consensus and Approximation-based Distribution Statistics in Network Systems](https://ieeexplore.ieee.org/document/9483081)”, *2021 American Control Conference*, New Orleans, LA, USA, 25-28 May 2021, pp. 3767-3772.
+
+15. **<u>Yushan Li</u>**, Jianping He and Lin Cai, “[Topology Inference on Partially Observable Mobile Robotic Networks under Formation Control](https://ieeexplore.ieee.org/document/9655038)”, *2021 European Control Conference*, Delft, Netherlands, 29 June-2 July 2021, pp. 497-502.
+
+16. Qing Jiao, **<u>Yushan Li</u>**, Xiaoming Duan, Jianping He and Qing–Guo Wang, “[Multi-robot Target Search under Multi-peak Distribution: A Dynamic Approach based on High Confidence Area](https://doi.org/10.1109/VTC2021-Fall52928.2021.9625203)”, *94th IEEE Vehicular Technology Conference*, Norman, OK, USA, 27 September-28 October, 2021 (no page number, doi: 10.1109/VTC2021-Fall52928.2021.9625203).
+
+17. Qing Jiao, **<u>Yushan Li</u>** and Jianping He, “[Topology Inference for Consensus-based Cooperation under Time-invariant Latent Input](https://doi.org/10.1109/VTC2021-Fall52928.2021.9625259)”, *94th IEEE Vehicular Technology Conference*, Norman, OK, USA, 27 September-28 October, 2021 (no page number, doi: 10.1109/VTC2021-Fall52928.2021.9625259.).
+
+18. Hao Jiang, **<u>Yushan Li</u>**, Xuda Ding and Jianping He, “[Obstacle Avoidance Algorithm Based on Human Experience Knowledge](https://doi.org/10.1109/VTC2020-Fall49728.2020.9348589)”, *92nd IEEE Vehicular Technology Conference*, Victoria, BC, Canada, 18 November-16 December, 2020 (no page number, doi: 10.1109/VTC2020-Fall49728.2020.9348589.).
+
+19. Jialun Li, **<u>Yushan Li</u>**, Yulai Weng and Jianping He, “[Adaptive Task Allocation for Multi-agent Cooperation with Unknown Capabilities](https://doi.org/10.1109/VTC2020-Fall49728.2020.9348860)”, *92nd IEEE Vehicular Technology Conference*, Victoria, BC, Canada, 18 November-16 December, 2020 (no page number,  doi: 10.1109/VTC2020-Fall49728.2020.9348860.).
+
+20. Jialun Li, Jianping He, **<u>Yushan Li</u>** and Xinping Guan, “[Unpredictable Trajectory Design for Mobile Agents](https://doi.org/10.23919/ACC45564.2020.9147718)”, *2020 American Control Conference*, Denver, CO, USA, 1-3 July 2020, pp. 1471-1476.
+
+21. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, “[Learning-based Intelligent Attack against Formation Control with Obstacle-avoidance](https://ieeexplore.ieee.org/document/8814377)”, *2019 American Control Conference*, Philadelphia, PA, USA, 10-12 July 2019, pp. 2690-2695.
+
+22. Han Wang, **<u>Yushan Li</u>**, Wenbin Yu, Jianping He and Xinping Guan, “[Moving Obstacle Avoidance and Topology Recovery for Multi-agent Systems](https://doi.org/10.23919/ACC.2019.8814369)”, *2019 American Control Conference*, Philadelphia, PA, USA, 10-12 July 2019, pp. 2696-2701.
+
+23. **<u>Yushan Li</u>**, Han Wang, Jianping He and Xinping Guan, “[Optimal Topology Recovery Scheme for Multi-robot Formation Control](https://ieeexplore.ieee.org/document/8781433)”, *28th IEEE International Symposium on Industrial Electronics*, Vancouver, BC, Canada, 12-14 June 2019, pp. 1847-1852.
+

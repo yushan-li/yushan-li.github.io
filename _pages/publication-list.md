@@ -32,7 +32,7 @@ A complete list of my publications can be found at [Google Scholar](https://scho
 
 # Conference Articles 
 
-1. **<u>Yushan Li</u>**, Rikard Forlin, Dimos V. Dimarogonas and Petter Brodin, “Topology Inference for Immune System Networks by Using Cell Amount Data”, *23rd IFAC World Congress*, Busan, Republic of Korea, 23-28 August 2026, to appear.
+1. **<u>Yushan Li</u>**, Rikard Forlin, Dimos V. Dimarogonas and Petter Brodin, “Topology Inference for Immune System Networks by Using Cell Amount Data”, *23rd IFAC World Congress*, Busan, Republic of Korea, 23-28 August 2026, to appear.  [[arXiv](https://arxiv.org/abs/2608.07403)]
 2. Wang Xi, Jingxuan Tang, Zhiyuan Zeng, **<u>Yushan Li</u>** and Jianping He, “[Exploit Agile Mobility of Steerable-Wheeled Mobile Robots: A Fast Motion Planning Approach](https://www.roboticsproceedings.org/rss22/p188.pdf)”, *Robotics: Science and Systems 2026*, Sydney, Australia, 13-17 July 2026, Paper ID 188.
 3. **<u>Yushan Li</u>**, Jiabao He and Dimos V. Dimarogonas, “[Resistant Topology Inference in Consensus Networks: A Feedback-Based Design](https://doi.org/10.1109/CDC57313.2025.11312805)”, *64th IEEE Conference on Decision and Control*, Rio de Janeiro, Brazil, 10-12 December 2025, pp. 2563-2568.
 4. Qing Jiao, **<u>Yushan Li</u>** and Jianping He, "[Topology Inference for Network Systems with Unknown Inputs](https://doi.org/10.23919/ACC63710.2025.11107565)", *2025 American Control Conference*, Denver, CO, USA, 8-10 July 2025, pp. 3207-3212.
@@ -55,4 +55,3 @@ A complete list of my publications can be found at [Google Scholar](https://scho
 21. **<u>Yushan Li</u>**, Jianping He, Cailian Chen and Xinping Guan, “[Learning-based Intelligent Attack against Formation Control with Obstacle-avoidance](https://ieeexplore.ieee.org/document/8814377)”, *2019 American Control Conference*, Philadelphia, PA, USA, 10-12 July 2019, pp. 2690-2695.
 22. Han Wang, **<u>Yushan Li</u>**, Wenbin Yu, Jianping He and Xinping Guan, “[Moving Obstacle Avoidance and Topology Recovery for Multi-agent Systems](https://doi.org/10.23919/ACC.2019.8814369)”, *2019 American Control Conference*, Philadelphia, PA, USA, 10-12 July 2019, pp. 2696-2701.
 23. **<u>Yushan Li</u>**, Han Wang, Jianping He and Xinping Guan, “[Optimal Topology Recovery Scheme for Multi-robot Formation Control](https://ieeexplore.ieee.org/document/8781433)”, *28th IEEE International Symposium on Industrial Electronics*, Vancouver, BC, Canada, 12-14 June 2019, pp. 1847-1852.
-
